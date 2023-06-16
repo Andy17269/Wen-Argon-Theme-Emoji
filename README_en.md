@@ -1,4 +1,4 @@
- # argon-theme-emoji
+ # Argon-Theme-Emoji
 English / [简体中文](README_en.md)
 
 A set of emoji plugins suitable for Wordpress version Argon themes.
