@@ -4,7 +4,7 @@
 
 #### 本文档最后更新于2023年7月22日更新
 
-![WenArgonThemeEmoji](https://cdn.jsdelivr.net/gh/Andy17269/Wen-Argon-Theme-Emoji@master/image-2011.png)
+![Wen-Argon-Theme-Emoji](https://cdn.jsdelivr.net/gh/Andy17269/Wen-Argon-Theme-Emoji@master/image-2011.png)
 
 一套表情插件，适用于Wordpress版Argon主题。 
 
