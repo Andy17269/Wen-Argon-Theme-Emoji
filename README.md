@@ -11,11 +11,6 @@
 
 请前往<a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a>查看使用教程。
 
-我们还有其他的<strong>高级安装</strong>方法
-
-## 高级安装
-🏗 此处文档的编写尚未完成
-
 ## 已完成的表情包
 
 Fluent 表情包（<strong>动态的，推荐</strong>）
