@@ -9,7 +9,7 @@
 
 ## 快速使用
 
-请前往<a href="https://wenlei.club/wen-argon-theme-emoji">https://wenlei.club/wen-argon-theme-emoji</a>查看使用教程。
+请前往<a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a>查看使用教程。
 
 我们还有其他的<strong>高级安装</strong>方法
 
