@@ -14,7 +14,11 @@
 
 ## 已完成的表情包
 
-Fluent 表情包（<strong>动态+静态</strong>）
+Fluent 表情包 - 第一弹（<strong>动态+静态</strong>）
+
+Fluent 表情包 - 第二弹（<strong>动态+静态</strong>）
+
+Fluent 表情包 - 第三弹（<strong>动态+静态</strong>）
 
 ## 正在改造的表情包
 
