@@ -14,6 +14,7 @@
 
 ## 已完成的表情包
 
+![Emoji](https://cdn.jsdelivr.net/gh/Andy17269/Wen-Argon-Theme-Emoji@master/image-1411.gif)
 Fluent 表情包 - 第一弹（<strong>动态+静态</strong>）
 
 Fluent 表情包 - 第二弹（<strong>动态+静态</strong>）
