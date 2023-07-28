@@ -3,13 +3,14 @@
 
 简体中文 / [English](README_en.md)
 
-一套表情插件，适用于Wordpress版Argon主题。 
+一套表情插件，适用于Wordpress版Argon主题
 
-### 请注意，这些表情包不能用于商业用途。
+
+### <strong>请注意，这些表情包不能用于商业用途</strong>
 
 ## 快速使用
 
-请前往<a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a>查看使用教程。
+请前往<a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a>查看使用教程
 
 ## 已完成的表情包
 
