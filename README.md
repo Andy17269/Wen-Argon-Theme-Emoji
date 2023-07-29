@@ -19,24 +19,25 @@
 
 <div align="center">
 	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/10.gif" width="8%">
-</div>
+
 <p></p>
 
 Fluent 表情包 - 第一弹（<strong>动态+静态</strong>）
 
 <div align="center">
 	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/101.gif" width="8%">
-</div>
+
 <p></p>
 
 Fluent 表情包 - 第二弹（<strong>动态+静态</strong>）
 
 <div align="center">
 	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/113.gif" width="8%">
-</div>
+
 <p></p>
 
 Fluent 表情包 - 第三弹（<strong>动态+静态</strong>）
+</div>
 
 ## 正在改造的表情包
 
