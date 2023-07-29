@@ -1,4 +1,7 @@
-![Wen-Argon-Theme-Emoji](https://cdn.jsdelivr.net/gh/Andy17269/Wen-Argon-Theme-Emoji@master/image-2011.png)
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Andy17269/Wen-Argon-Theme-Emoji/main/image-2011.png" width="100%">
+</div>
+
 # Wen Argon Theme Emoji
 
 简体中文 / [English](README_en.md)
@@ -10,17 +13,23 @@
 
 ## 快速使用
 
-请前往<a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a>查看使用教程
+请前往 <a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a> 查看使用教程
 
 ## 已完成的表情包
 
-![Emoji-1](https://cdn.jsdelivr.net/gh/Andy17269/Wen-Argon-Theme-Emoji@master/image-1411.gif)
+<div align="center">
+	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/11.gif" width="8%">
+</div>
 <p></p>
-![Emoji-2](https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/113.gif)
-
 Fluent 表情包 - 第一弹（<strong>动态+静态</strong>）
+<div align="center">
+	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/101.gif" width="8%">
+</div>
 <p></p>
 Fluent 表情包 - 第二弹（<strong>动态+静态</strong>）
+<div align="center">
+	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/113.gif" width="8%">
+</div>
 <p></p>
 Fluent 表情包 - 第三弹（<strong>动态+静态</strong>）
 
