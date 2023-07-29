@@ -18,7 +18,7 @@
 ## 已完成的表情包
 
 <div align="center">
-	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/11.gif" width="8%">
+	<img src="https://assets.wenlei.club/blog-emoji-assets/microsoft-fluent-emoji/10.gif" width="8%">
 </div>
 <p></p>
 
